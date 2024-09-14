@@ -79,7 +79,6 @@ WSGI_APPLICATION = 'llmchat.wsgi.application'
 HUGGING_FACE_API_TOKEN = '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'
 
 
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
